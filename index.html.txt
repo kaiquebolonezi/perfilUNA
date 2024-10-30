@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil de Kaique Bolonezi Ferreira de Abreu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Olá, sou Kaique Bolonezi Ferreira de Abreu</h1>
+            <p>Profissional de Segurança da Informação</p>
+        </header>
+        
+        <section class="profile">
+            <h2>Sobre Mim</h2>
+            <p>Tenho 21 anos e moro em Belo Horizonte (MG). Sou formado em Redes de Computadores pelo CEFET-MG e atualmente curso Sistemas de Informação(RA:323133467) noturno pelo Centro Universitário UNA na unidade Cristiano Machado.</p>
+            <p>Trabalho com Segurança da Informação em um Centro de Operações em Segurança (SOC) focado em MSS (Managed Security Services). Possuo nível intermediário de inglês para conversação e escrita e sou proativo e dedicado em tudo o que gosto de praticar.</p>
+        </section>
+        
+        <section class="skills">
+            <h2>Habilidades</h2>
+            <ul>
+                <li>Rápido aprendizado</li>
+                <li>Capacidade analítica</li>
+                <li>Boa comunicação</li>
+                <li>Proatividade e Dedicação</li>
+                <li>Inglês Intermediário</li>
+            </ul>
+        </section>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
